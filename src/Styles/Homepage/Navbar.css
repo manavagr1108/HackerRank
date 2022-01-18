@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.HomeIcon{
+    color:  #2d2e2f;
+    font-weight: 900;
+    font-family: 'Anton', sans-serif;
+}
+.ButtonContainer{
+    display: flex;
+    align-items: center;
+}
