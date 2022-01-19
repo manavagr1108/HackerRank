@@ -1,3 +1,17 @@
 .ContentTitle{
     text-align: left;
+    font-style: normal;
+}
+.ContentSubTitle{
+    font-weight: bold;
+}
+.ContentButton{
+    font-weight: bold;
+    fwidth: 110px;
+    text-transform: none;
+    padding: 1px 10px;
+}
+.HackerRankImg{
+    width: 35vw;
+    padding-top: -5vh;
 }
